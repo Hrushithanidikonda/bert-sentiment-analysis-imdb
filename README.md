@@ -43,3 +43,7 @@ Given a movie review, classify the sentiment as either:
 
 ## 📁 Repository Structure
 
+├── LLM_Assignment3_BERT_Sentiment_IMDb.ipynb
+├── LLM_Assignment3_Report_BERT_Sentiment_IMDb.pdf
+├── requirements.txt
+└── README.md
